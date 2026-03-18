@@ -1,0 +1,1 @@
+A few rust and php imageboards. They are all starter kits, just the basics to save lots of time. Use as is or feed the code to ai and it can finish the details of the boards for you- change db, change looks, add js for things like image expand on click and all that stuff. The code bases are small and super easy to feed to ai. 
