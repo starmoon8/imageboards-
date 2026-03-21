@@ -1,4 +1,3 @@
-![8](https://github.com/user-attachments/assets/deedff61-3319-4a40-a8e1-94a082716eec)
 
 
 
